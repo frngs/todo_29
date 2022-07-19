@@ -2,5 +2,4 @@ Django
 Pillow
 gunicorn
 whitenoise
-pycopg2
 pyTelegramBotAPI
